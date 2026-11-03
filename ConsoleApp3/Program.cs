@@ -72,7 +72,7 @@ while (true)
     else
     {
         ekleme.Add("kullanıcı kazandı");
-        Console.WriteLine("kullanıcı kazandı   " + tur.ToString() + ".oyun sonucu");
+        Console.WriteLine("kullanıcı kazandı   " + tur.ToString() + ".oyun sonucu"); 
         kullaniciKazanmaAdeti++;
     }
     {
